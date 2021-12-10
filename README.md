@@ -7,5 +7,5 @@ encapsulation,DRY principles and dependency inversion to build clean, organized,
 Note : Also, to this codebase, I would add Logging , exception handling and make connectionstring configurable.
 
 Before running the application,run below commands in Package Manager console to create database and tables:
-Add-Migration “NewDatabaseSQ”
-Update-Database
+1) Add-Migration “NewDatabaseSQ”
+2) Update-Database
